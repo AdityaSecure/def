@@ -5,6 +5,8 @@ from selenium.webdriver.common.action_chains import ActionBuilder
 from selenium.webdriver.common.by import By
 import time
 import os
+
+#ert
 desired_capabilities={
       "platformName": "Android",
       "appium:platformVersion": "13.0",
